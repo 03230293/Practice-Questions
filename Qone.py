@@ -1,7 +1,7 @@
 One=(input(" One number: "))
-print(One)
+# print(One)
 two=(input(" One number: "))
-print(two)
+# print(two)
 
 if One >= two:
     if One > two:
@@ -10,3 +10,4 @@ if One >= two:
         print("equal to two") 
 else:
     print("Two is greater")
+
